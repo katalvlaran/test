@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 93166
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+Set-Cookie: dcw=44; domain=.korrespondent.net; expires=Sat, 04-Aug-2018 18:08:34 GMT; path=/
+X-Powered-By: ASP.NET
+Date: Fri, 04 Aug 2017 18:08:34 GMT
+
