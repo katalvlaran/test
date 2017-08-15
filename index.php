@@ -22,6 +22,8 @@
         ?>
 
         <div id="content">
+		
+		<h3>Йоу Йоу Йоу</h3>
             <?php if(!empty($links)):?>
             <h4>Новости</h4>
             <div class="news-links">
